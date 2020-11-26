@@ -10,8 +10,8 @@ Welcome to UserAuthentation project using Django!
    :maxdepth: 2
    :numbered:
    
-   file1.md
-   file2.md
+   Django.md
+   
    
    
 
