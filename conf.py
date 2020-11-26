@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'User Authentication project using Django'
+copyright = '2020, AnilPolineni'
+author = 'Polineni Anil'
 
 # The full version, including alpha/beta/rc tags
 release = ''
